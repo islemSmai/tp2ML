@@ -1,8 +1,6 @@
-
 import streamlit as st
 import pandas as pd
 import numpy as np
-import tensorflow as tf
 
 st.title('face detection')
 st.markdown('Toy model to play to classify iris flowers into \ setosa, versicolor, virginica')
